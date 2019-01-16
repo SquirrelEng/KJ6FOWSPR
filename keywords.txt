@@ -1,0 +1,13 @@
+KJ6FOWSPR KEYWORD1
+
+jt65_encode KEYWORD2
+jt9_encode KEYWORD2
+jt4_encode KEYWORD2
+wspr_encode KEYWORD2
+wspr_type2 KEYWORD2
+wspr_type3 KEYWORD2
+wspr_encode KEYWORD2
+fsq_encode KEYWORD2
+fsq_dir_encode KEYWORD2
+
+
